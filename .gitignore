@@ -17,3 +17,10 @@ __pycache__/
 # ==== OS ====
 .DS_Store
 Thumbs.db
+
+# ==== Backup ====
+backup/
+.backup/
+
+# ==== Helpers ====
+start instruction.txt
